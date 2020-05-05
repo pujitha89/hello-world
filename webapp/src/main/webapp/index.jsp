@@ -2,4 +2,4 @@
 <h2> Welcome to Edureka Online training </h2>
 <h3> Deployments using Ansible</h3>
 blah blah blah!!!
-<h4> happy learning </h4>
+<h4> happy learning to all </h4>
